@@ -1,0 +1,23 @@
+body {
+  background-color: cadetblue;
+  height: 100%;
+  width: 100%;
+}
+
+.footer {
+  background-color: cadetblue;
+  height: 100px;
+  position: relative;
+  text-align: center;
+}
+
+.konten1 {
+  height: 600px;
+  width: 100%;
+  background-color: rgb(48, 217, 223);
+}
+
+.ikon {
+  height: 20px;
+  width: 20px;
+}
